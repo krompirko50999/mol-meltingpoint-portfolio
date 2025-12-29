@@ -1,0 +1,43 @@
+# -------------------------------
+# DATA — Do NOT publish
+# -------------------------------
+data/raw/
+data/processed/
+*.csv
+*.xlsx
+*.feather
+*.parquet
+*.npz
+*.npy
+
+# -------------------------------
+# MODEL ARTIFACTS
+# -------------------------------
+results/model_artifacts/
+*.pkl
+*.joblib
+
+# Tuning logs
+results/*tuning*
+*xgb_tuning_results.csv
+*lgbm_tuning_results.csv
+metrics_summary.csv
+
+# -------------------------------
+# CACHE / TEMP
+# -------------------------------
+__pycache__/
+*.log
+*.tmp
+
+# IDE & OS
+.vscode/
+.DS_Store
+
+# -------------------------------
+# ENV
+# -------------------------------
+.env
+*.env
+.venv/
+venv/
